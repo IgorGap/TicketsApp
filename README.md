@@ -30,8 +30,8 @@ npm start
 ### Перейти на сайт можно по ссылке:
 https://igorgap.github.io/TiketsApp/
 
-<img width="1440" alt="mainPage" src="./readme-img/1e.PNG">
+<img width="1440" alt="errorImg" src="./readme-img/1e.PNG">
 <p>
 </p>
-<img width="1440" alt="mainPage" src="./readme-img/2e.PNG">
+<img width="1440" alt="errorImg" src="./readme-img/2e.PNG">
 <p>
