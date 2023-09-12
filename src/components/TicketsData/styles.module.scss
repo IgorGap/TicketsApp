@@ -1,0 +1,112 @@
+.wrappTicketList{
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  width: 60%;
+  @media (max-width: 1260px) {
+    width: 70%;
+    }
+  @media (max-width: 960px) {
+      width: 80%;
+    }
+   @media (max-width: 560px) {
+        width: 90%;
+    }
+    @media (max-width: 300px) {
+      width: 100%;
+  }
+}
+.ticket{
+  background-color: rgb(255, 255, 255);
+  padding: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-radius: 7px;
+  @media (max-width: 1260px) {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    }
+}
+.logoPrise{
+color: rgb(14, 81, 163);
+font-size: 20px;
+font-weight: 800;
+display: flex;
+justify-content: center;
+gap: 20px;
+flex-direction: column;
+align-items: center;
+
+
+}
+.prise{
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+  background-color: rgb(255, 149, 0);
+  padding: 10px 15px;
+  min-width: 180px;
+  border-radius: 5px;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  // margin-left: 40px;
+
+}
+.departure{
+// border: 2px solid rgb(0, 255, 72);
+display: flex;
+flex-direction: column;
+gap: 5px;
+@media (max-width: 1060px) {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  }
+}
+.depTime{
+font-size: 40px;
+display: flex;
+}
+.origin_name{
+  display: flex;
+  flex-direction: row;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+
+.stops{
+  color: rgb(115, 114, 114);
+  font-size: 15px;
+  @media (max-width: 1060px) {
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+}
+.line{
+  margin-top: 5px;
+  border: 1px solid rgb(149, 149, 149);
+}
+.depDate{
+font-size: 16px;
+color: rgb(121, 121, 121);
+}
+
+//=============
+.tickets{
+  height: 85%;
+  overflow: scroll;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 10px;
+  @media (max-width: 800px) {
+    height: 700px
+}
+}

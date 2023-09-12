@@ -1,11 +1,12 @@
 import React from 'react'
-import './App.css'
-import { Home } from './components'
+import { Content } from './components/Content'
+import styles from './styles.module.scss'
+
 
 function App() {
   return (
-    <div className="App">
-      <Home />
+    <div className={styles.app}>
+      <Content />
     </div>
   )
 }
