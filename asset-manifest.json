@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TiketsApp/static/css/main.5f45fe6c.css",
+    "main.js": "/TiketsApp/static/js/main.140cb1cb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TiketsApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TiketsApp/index.html",
+    "main.5f45fe6c.css.map": "/TiketsApp/static/css/main.5f45fe6c.css.map",
+    "main.140cb1cb.js.map": "/TiketsApp/static/js/main.140cb1cb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TiketsApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f45fe6c.css",
+    "static/js/main.140cb1cb.js"
+  ]
+}
