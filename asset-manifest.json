@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TiketsApp/static/css/main.5f45fe6c.css",
-    "main.js": "/TiketsApp/static/js/main.3360de18.js",
-    "static/js/787.28cb0dcd.chunk.js": "/TiketsApp/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/TiketsApp/index.html",
-    "main.5f45fe6c.css.map": "/TiketsApp/static/css/main.5f45fe6c.css.map",
-    "main.3360de18.js.map": "/TiketsApp/static/js/main.3360de18.js.map",
-    "787.28cb0dcd.chunk.js.map": "/TiketsApp/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/TicketsApp/static/css/main.5f45fe6c.css",
+    "main.js": "/TicketsApp/static/js/main.763a6942.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TicketsApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TicketsApp/index.html",
+    "main.5f45fe6c.css.map": "/TicketsApp/static/css/main.5f45fe6c.css.map",
+    "main.763a6942.js.map": "/TicketsApp/static/js/main.763a6942.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TicketsApp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f45fe6c.css",
-    "static/js/main.3360de18.js"
+    "static/js/main.763a6942.js"
   ]
 }
