@@ -28,7 +28,7 @@ npm start
 ```
 
 ### Перейти на сайт можно по ссылке:
-https://igorgap.github.io/TiketsApp/
+https://igorgap.github.io/TicketsApp/
 
 <img width="1440" alt="errorImg" src="./readme-img/1e.PNG">
 <p>
