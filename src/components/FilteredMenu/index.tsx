@@ -24,7 +24,6 @@ export const FilteredMenu = ({
 
   useEffect(() => {
     if (checkboxAll) {
-      console.log('первый юзэффект')
       setSelectedCheckboxes((prev: { [key: string]: boolean }) => ({
         ...prev,
         checkbox0: true,
